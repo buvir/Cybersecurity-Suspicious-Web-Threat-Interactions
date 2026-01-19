@@ -1,0 +1,51 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# ===============================
+# Virtual Environments
+# ===============================
+env/
+venv/
+ENV/
+.venv/
+
+# ===============================
+# Jupyter Notebook
+# ===============================
+.ipynb_checkpoints/
+
+# ===============================
+# Data Files (keep raw data optional)
+# ===============================
+*.csv
+*.xlsx
+
+# Uncomment if you WANT to track dataset
+# !CloudWatch_Traffic_Web_Attack.csv
+
+# ===============================
+# OS Files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# IDEs
+# ===============================
+.vscode/
+.idea/
+
+# ===============================
+# Logs & Temporary Files
+# ===============================
+*.log
+*.tmp
